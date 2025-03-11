@@ -1,0 +1,14 @@
+/Users/crystalhansen/devnet/consoletest/bin/Debug/net8.0/consoletest
+/Users/crystalhansen/devnet/consoletest/bin/Debug/net8.0/consoletest.deps.json
+/Users/crystalhansen/devnet/consoletest/bin/Debug/net8.0/consoletest.runtimeconfig.json
+/Users/crystalhansen/devnet/consoletest/bin/Debug/net8.0/consoletest.dll
+/Users/crystalhansen/devnet/consoletest/bin/Debug/net8.0/consoletest.pdb
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfoInputs.cache
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfo.cs
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.dll
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/refint/consoletest.dll
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.pdb
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
+/Users/crystalhansen/devnet/consoletest/obj/Debug/net8.0/ref/consoletest.dll
